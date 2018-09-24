@@ -7,7 +7,7 @@ end
 
 def raise_hand
   super
-  i = 1
+  i = 0
   until i == 9
     i += 1
     puts "Pick me!"
