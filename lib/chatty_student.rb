@@ -6,13 +6,13 @@ def hello
   end
 end
 
-def raise_hand
-  i = 0
-  until i == 10
-    i += 1
-    puts "Pick me!"
-  end
-end
+# def raise_hand
+#   i = 0
+#   until i == 10
+#     i += 1
+#     puts "Pick me!"
+#   end
+# end
   
   
 end
