@@ -6,8 +6,8 @@ def hello
 end
 
 def raise_hand
-  i = 0
-  until i == p9
+  i = 1
+  until i == 9
     i += 1
     puts "Pick me!"
   end
