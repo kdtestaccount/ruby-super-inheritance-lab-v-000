@@ -6,6 +6,7 @@ def hello
 end
 
 def raise_hand
+  super
   i = 1
   until i == 9
     i += 1
