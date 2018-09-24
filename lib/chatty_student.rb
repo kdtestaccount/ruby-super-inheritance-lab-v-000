@@ -7,7 +7,7 @@ end
 
 def raise_hand
   i = 0
-  until i == 10
+  until i == p9
     i += 1
     puts "Pick me!"
   end
